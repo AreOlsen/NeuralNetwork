@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4xQYYTLBBYQ=",
+  "dgSpecHash": "YNTbQ0qivq0=",
   "success": true,
-  "projectFilePath": "/home/cockblocker/Desktop/Programming/C#/NeuralNetworkCSharp/NeuralNetwork/NeuralNetwork/NeuralNetwork.csproj",
+  "projectFilePath": "/Users/areolsen/Desktop/NeuralNetCSharp/NeuralNetwork/NeuralNetwork/NeuralNetwork.csproj",
   "expectedPackageFiles": [
-    "/home/cockblocker/.nuget/packages/csvhelper/33.1.0/csvhelper.33.1.0.nupkg.sha512",
-    "/home/cockblocker/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "/Users/areolsen/.nuget/packages/csvhelper/33.1.0/csvhelper.33.1.0.nupkg.sha512",
+    "/Users/areolsen/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
